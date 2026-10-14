@@ -5,6 +5,6 @@
 
   # jmolloseau's Website
 
-  Visit **[website URL](#)** 🚀
+  Visit **[jmolloseau.github.io/rivera-lab-website](https://jmolloseau.github.io/rivera-lab-website)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
