@@ -3,7 +3,7 @@
 
 # jmolloseau's Website
 
-An engaging 1-3 sentence description of your lab.
+I study aquatic macroinvertebrates in streams and how we can apply eDNA to stream surveys.
 
 {% include section.html %}
 
